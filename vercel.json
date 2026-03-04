@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/push/feishu?token=这里填你的CRON_TOKEN",
+      "schedule": "0 1 * * *"
+    }
+  ]
+}
